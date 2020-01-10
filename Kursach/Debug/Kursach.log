@@ -1,0 +1,3 @@
+﻿  Kursach.cpp
+E:\Univer\Kursach\Kursach\Kursach.cpp(119): warning C4715: checkRole: значение возвращается не при всех путях выполнения
+  Kursach.vcxproj -> E:\Univer\Kursach\Debug\Kursach.exe
